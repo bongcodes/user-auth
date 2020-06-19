@@ -1,0 +1,7 @@
+env/
+src/accounts/__pycache__/
+src/accounts/migrations/
+src/core/__pycache__/
+src/pages/__pycache__/
+src/pages/migrations/
+src/db.sqlite3
